@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'MuseoSansMedium'; /* Гарнитура шрифта */
+    src: url("../fonts/MuseoCyrl500.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'MuseoSansLight'; /* Гарнитура шрифта */
+    src: url("../fonts/MuseoCyrl300.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'MuseoSansBold'; /* Гарнитура шрифта */
+    src: url("../fonts/MuseoCyrl700.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+
